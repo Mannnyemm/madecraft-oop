@@ -44,5 +44,8 @@ public class Smurf {
 		Smurf smurfette2 = Smurf.createSmurf("Smurfette");
 		Smurf handy = Smurf.createSmurf("handy");
 		Smurf handy1 = Smurf.createSmurf("handy");
+		smurfette.printName();
+		papa.printName();
+		handy.printName();
 	}
 }
